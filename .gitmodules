@@ -1,0 +1,3 @@
+[submodule "app/code/Ambienz/CustomPageBuilder"]
+	path = app/code/Ambienz/CustomPageBuilder
+	url = https://github.com/denisalmeida/magento2-module-custom-pagebuilder
